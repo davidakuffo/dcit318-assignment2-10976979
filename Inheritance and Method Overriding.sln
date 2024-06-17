@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance and Method Over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Classes and Methods", "Abstract Classes and Methods\Abstract Classes and Methods.csproj", "{6B31571A-6A38-44C1-BCA0-543EF50376DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{5218EAB1-F0E9-4258-A112-80885EDCF0B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B31571A-6A38-44C1-BCA0-543EF50376DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B31571A-6A38-44C1-BCA0-543EF50376DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B31571A-6A38-44C1-BCA0-543EF50376DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5218EAB1-F0E9-4258-A112-80885EDCF0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5218EAB1-F0E9-4258-A112-80885EDCF0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5218EAB1-F0E9-4258-A112-80885EDCF0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5218EAB1-F0E9-4258-A112-80885EDCF0B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
